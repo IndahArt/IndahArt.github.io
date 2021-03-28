@@ -1,0 +1,64 @@
+.bunga {
+    display: inline-block;
+    width: 1000px;
+    outline-color: aqua;
+    margin top: 50px;
+}
+.tentang { 
+    display: inline-block;
+    width: 1000px;
+    margin top: 50px;
+}
+.beranda {
+    border-style: inset;
+    background-color: snow;
+    font font-size: 40px;
+    float: left;
+    padding: 30px;
+    width: 1000px;
+    height: 70px;
+}
+.pengertian {
+    border-bottom: solid;
+    background-color: snow;
+    font font-size: 40px;
+    font color: darkorchid;
+    float: left;
+    width: 1000px;
+    padding: 30px;
+    height: 50px;
+}
+.sejarah {
+    border-style: double;
+    background-color: darkblue;
+    font font-size: 40px;
+    float: left;
+     page-break-after: right;
+    width: 320px;
+    height: 900px;
+}
+.sejarah2 {
+    border-style: dotted dashed solid;
+    background-color: rosybrown;
+    font font-size: 40px;
+    float: left;
+    page-break-after: right;
+    width: 320px;
+    height: 900px;
+}
+.sejarah3 {
+    border-style: groove;
+    background-color: darkred;
+    font font-size: 40px;
+    float: left;
+    width: 320px;
+    height: 900px;
+}
+.copyright {
+    border-top: solid;
+    background-color: snow;
+    font font-size: 40px;
+    float: left;
+    width: 1000px;
+    height: 50px;
+}
